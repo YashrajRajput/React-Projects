@@ -1,0 +1,49 @@
+.appCnt {
+    display: flex;
+}
+
+
+.content {
+    width: 100vw;
+}
+
+
+.sidebar {
+    height: 100vh;
+}
+
+.post-card {
+    margin: 20px 50px;
+    min-width: 30rem;
+}
+
+
+.hashtag {
+    margin: 0px 2px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.reaction {
+    width: 100%;
+    margin: 15px 0px 0px 0px;
+}
+
+
+
+.create-post-form {
+    width: 80%;
+    margin-left: 10%;
+    margin-top: 50px;
+}
+
+
+.WelcomeMsg {
+    margin: 100px 0px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+
+.spinner {
+    margin: 10% 0;
+}
